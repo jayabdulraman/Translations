@@ -1,5 +1,5 @@
 # Translations
-A Python Program that will take a text message and translate it into words your grandparents could understand. 
+A Python Program that will take social abbreviated phrases like lol, lmao etc and translate it into words or their meanings your grandparents could understand. 
 
 **For example:** So funny LOL ROTFL becomes So funny laughing out loud rolling on the floor laughing
 
